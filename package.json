@@ -28,5 +28,18 @@
     "vite": "^3.0.7",
     "vite-plugin-eslint": "^1.8.1",
     "vitest": "^0.22.1"
-  }
+  },
+  "description": "",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anabbaa/ghArtifact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anabbaa/ghArtifact/issues"
+  },
+  "homepage": "https://github.com/anabbaa/ghArtifact#readme",
+  "keywords": []
 }
