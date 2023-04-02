@@ -33,7 +33,7 @@ jobs:
             dist
             package.json
   deploy:
-    need: build
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: get build artifact
